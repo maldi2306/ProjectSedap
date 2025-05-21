@@ -1,5 +1,5 @@
 import { useState } from "react";
-import PageHeader from "../components/PageHeader";
+import PageHeader from "../components/pageHeader";
 import FormOrders from "../components/FormOrders";
 
 export default function Orders() {
