@@ -1,0 +1,27 @@
+[
+    {
+      "name": "Muhammad Ali",
+      "review": "ENAK NYOOOO!",
+      "avatar": "/src/Quiz/assets/ali.png"
+    },
+    {
+      "name": "Cole Palmer",
+      "review": "Mantap NYOOO!",
+      "avatar": "/src/Quiz/assets/Palmer.png"
+    },
+    {
+      "name": "Eden Hazard",
+      "review": "GURIH NYOO!",
+      "avatar": "/src/Quiz/assets/Hazard.png"
+    },
+    {
+      "name": "Didier Drogba",
+      "review": "SEDAP NYOOOO",
+      "avatar": "/src/Quiz/assets/drogba.png"
+    },
+    {
+      "name": "Frank Lampard",
+      "review": "B AJA SIH",
+      "avatar": "/src/Quiz/assets/lampard.png"
+    }
+  ]

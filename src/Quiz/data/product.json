@@ -1,0 +1,28 @@
+[
+    {
+      "name": "Ayam Bakar",
+      "price": 45000,
+      "image": "/src/Quiz/assets/AyamBakar.png"
+    },
+    {
+      "name": "Nasi Padang",
+      "price": 25000,
+      "image": "/src/Quiz/assets/nasipadang.png"
+    },
+    {
+      "name": "Nasi Goreng",
+      "price": 20000,
+     "image": "/src/Quiz/assets/nasigoreng.png"
+    },
+    {
+      "name": "Ayam Penyet",
+      "price": 30000,
+      "image": "/src/Quiz/assets/ayampenyet.png"
+    },
+    {
+      "name": "Rendang",
+      "price": 22000,
+      "image": "/src/Quiz/assets/rendang.png"
+    }
+  ]
+  
