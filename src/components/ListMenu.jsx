@@ -35,6 +35,9 @@ export default function ListMenu (){
                 <li>
                     <NavLink id="menu-7" to="/UserList" className={menuClass}><MdOutlinePeopleAlt className="mr-4 text-xl"/> User List </NavLink>
                 </li>
+                <li>
+                    <NavLink id="notes" to="/notes" className={menuClass}><MdOutlinePeopleAlt className="mr-4 text-xl"/> notes </NavLink>
+                </li>
             </ul>
         </div>
     )

@@ -6,6 +6,7 @@ const Dashboard = React.lazy(() => import("./pages/Dashboard"));
 const Orders = React.lazy(() => import("./pages/Orders"));
 const Customers = React.lazy(() => import("./pages/Customers"));
 const UserList = React.lazy(() => import("./pages/UserList"));
+const Notes = React.lazy(() => import("./components/notes"));
 const NotFound = React.lazy(() => import("./pages/NotFound"));
 const Error400 = React.lazy(() => import("./pages/Error400"));
 const Error401 = React.lazy(() => import("./pages/Error401"));
@@ -34,6 +35,7 @@ function App() {
             <Route path="/Error401" element={<Error401 />} />
             <Route path="/Error403" element={<Error403 />} />
             <Route path="/UserList" element={<UserList />} /> 
+            <Route path="/notes" element={<Notes />} />
             <Route path="*" element={<NotFound />} />
             </Route>
 
